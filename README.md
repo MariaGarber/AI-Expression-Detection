@@ -23,3 +23,16 @@ Clone the repository:
 ```
 git clone https://github.com/MariaGarber/AI-Expression-Detection.git
 ```
+Enter the clonned folder:
+```
+cd AI-Expression-Detection
+```
+Install the Live Server:
+```
+npm install -g live-server
+```
+Run the application:
+```
+live-server
+```
+Local app should open automatically.
